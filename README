@@ -1,0 +1,13 @@
+This is a sandbox application that uses Rails 3.0.10, Devise 1.4.5, and Mongoid 2.2.3 as the OM layer.
+
+It could be used as a template application for other Mongo applications that need authentication.
+
+All code is AS-IS.
+
+
+You'll need to install the gems and also make sure you have access to a MongoDb. By default this is set to localhost for development and 
+production.
+
+Sign up using http://localhost:3000/members/sign_up
+
+This stores the member details in MongoDb

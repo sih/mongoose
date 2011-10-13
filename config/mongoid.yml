@@ -1,0 +1,8 @@
+development:
+  host: localhost
+  database: mongoose_development
+
+test:
+  host: localhost
+  database: mongoose_test
+
